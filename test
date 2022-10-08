@@ -1,0 +1,5 @@
+if isPlayerAlive == true then
+  HUDScreenUI = true
+  
+elseif isPlayerAlive == false then
+  HUDScreenUI = false
