@@ -1,4 +1,6 @@
-    Opraveno rádio, nyní je možné ho otevřít stisknutím tlačítka F5
-    Nový scoreboard, který lze otevřít stisknutím tlačítka END
-    
-    Server by se nyní měl ukazovat v server listu
+    Nové rádio s lepším UI (F5)
+    Velké zbraně si nyní postava nasadí na záda
+    Zbraně mají upravené poškození
+    Regenerace zdraví je nyní vypnuta
+    Postava si nyní může kleknout (CTRL)
+    Nyní je možné přepínat zvuk sirén (Q)
