@@ -1,13 +1,18 @@
-➕ Addon oblečení
-➕ Lepší boss menu
-➕ Lepší menu oblečení
-➕ Rychlostní kamery v LS
-➕ Blipy pro zastávky metra
-➕ Blip pro obchod s dokumenty
-➕ Přeprava oleje (non WL práce)
-➕ Role "Bez Práce" dostává $300 za hodinu
+➕ Převrácení vozidla
+➕ Příkaz `/roll`, kterým lze házet kostkou
+➕ Příkaz `/zde`, který na místě vytvoří zprávu
+➕ Příkaz `/status`, který připne k herní postavě zprávu
 
-🔧 Úprava blipů na mapě
-🔧 Růst marihuany je nyní nastaven správně
-🔧 Role "Nezamestnaný" přejmenována na "Bez Práce"
-🔧 Vozidla se nyní po restartu zobrazí na odtahovce
+🔧 Úprava HUD
+🔧 Hráči mají vyšší staminu a kapacitu plic
+🔧 Oznámení policii se nyní zobrazí pod statusem
+🔧 Nyní lze vytahovat vozidla z odtahovky i po restartu
+
+🔧 Nyní stačí kliknout jen jednou
+pro zastavení hudby v načítání
+
+🔧 Cykly růstu marihuany nyní trvají 1 hodinu
+a je jich celkem 20 (restart prodlouží růst o 1 cyklus)
+
+🔧 Status pro hráče mimo službu
+ukazuje "Mimo Službu", na místo "Bez Práce"
