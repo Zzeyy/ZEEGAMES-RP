@@ -4,7 +4,7 @@
 ➕ Příkaz `/status`, který připne k herní postavě zprávu
 
 🔧 Úprava HUD
-🔧 Hráči mají vyšší staminu a kapacitu plic
+🔧 Opravena funkčnost dílen
 🔧 Oznámení policii se nyní zobrazí pod statusem
 🔧 Nyní lze vytahovat vozidla z odtahovky i po restartu
 
